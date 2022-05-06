@@ -1,0 +1,21 @@
+Back-end
+
+-O back-end foi realizado em conjunto com o grupo D42_D421_AF
+
+Front-end
+
+-Controller
+ -dashboard.controller.js (em conjunto com o grupo D42_D421_AF)
+ -occurrences.controller.js
+ -requests.controller.js
+
+-HTML
+
+ -gerir_ocorrencias.html
+ -index.html (em conjunto com o grupo D42_D421_AF)
+ -login.html (em conjunto com o grupo D42_D421_AF)
+ -registaroperacional.html
+ -registarpedidonaoweb.html
+ -validarpedidos.html
+ 
+ 
